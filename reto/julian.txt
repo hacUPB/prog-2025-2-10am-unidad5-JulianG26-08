@@ -1,0 +1,17 @@
+universidad pontificia bolivariana 
+2023
+
+Ingeniería Aeronáutica: Vuelo y TecnologíaLa 
+Ingeniería Aeronáutica es clave en el desarrollo de aeronaves modernas. 
+Esta área se centra en el diseño, la fabricación y la operación segura de vehículos aéreos. 
+Se aplican principios rigurosos de aerodinámica y propulsión.
+Un ingeniero debe calcular la relación de aspecto de un ala, que podría estar cerca de 9.8, y 
+asegurar que la estructura pueda soportar una carga máxima de 3.5 g's.  
+Los aviones de pasajeros, como el modelo B787 o A350, utilizan materiales compuestos avanzados, 
+como aleaciones de titanio o polímeros reforzados, para alcanzar una eficiencia de combustible superior.
+El mantenimiento programado es crucial. Por ejemplo, ciertas inspecciones de motor ocurren después de 
+5000 o 10000 horas de vuelo, dependiendo del componente. Los sistemas de vuelo automatizado procesan cientos de datos
+ por segundo, incluyendo la altitud (AFL $\approx 350$) y la velocidad (Mach $0.8$). Estos sistemas operan bajo 
+ regulaciones estrictas (Norma FAR 25.407), utilizando software avanzado para simulaciones de flujo de aire 
+ (Código CFD-V2). 
+ La seguridad es la prioridad número 1.

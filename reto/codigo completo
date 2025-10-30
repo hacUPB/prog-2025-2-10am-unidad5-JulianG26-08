@@ -1,0 +1,28 @@
+
+import os
+import csv
+import matplotlib.pyplot as plt
+import submenotxt
+import submenucvs
+def mostrar_menu_principal():
+    print("1. Procesar archivo de texto (.txt)")
+    print("2. Procesar archivo CSV (.csv)")
+    print("3. Salir")
+    return int(input("Seleccione una opción: "))
+
+def main():
+    while True:
+        opcion = mostrar_menu_principal()
+        match opcion:
+            case 1:
+                submenotxt.submenu_txt()
+            case 2:
+                submenucvs.submenu_csv()
+            case 3:
+                print("Saliendo de la aplicación...")
+                break
+            case _:
+                print("Opción no válida. Intente de nuevo.")
+
+if __name__ == "__main__":
+    main()
